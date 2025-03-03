@@ -11,7 +11,7 @@ class MiImagen extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Joselyn Perez-Mat: 22308051281088'),
-          backgroundColor: const Color.fromARGB(255, 247, 248, 187), // Color pastel para el AppBar
+          backgroundColor: const Color.fromARGB(255, 250, 227, 99), // Color pastel para el AppBar
         ),
         body: Center(
           child: Row(
@@ -21,7 +21,7 @@ class MiImagen extends StatelessWidget {
                 width: 100,
                 height: 100,
                 decoration: BoxDecoration(
-                  color: const Color.fromARGB(255, 252, 255, 79),
+                  Color.fromARGB(255, 254, 205, 87),
                   borderRadius: BorderRadius.circular(10),
                   border: Border.all(color: Colors.black, width: 1),
                 ),
